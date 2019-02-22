@@ -6,8 +6,15 @@ body {
 header,
 section,
 footer {
-    width: 800px;
+    width: 560px;
     margin: 0 auto;
+}
+
+pre {
+    border: 1px solid #CCCCCC;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 10px;
 }
 
 footer {
